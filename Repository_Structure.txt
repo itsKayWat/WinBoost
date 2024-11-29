@@ -1,0 +1,31 @@
+WindowsSystemEnhancer/
+│
+├── src/
+│   ├── __init__.py
+│   ├── WindowsOptimizationWizard.py
+│   ├── modules/
+│   │   ├── __init__.py
+│   │   ├── cleanup.py
+│   │   ├── network.py
+│   │   ├── registry.py
+│   │   └── services.py
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py
+│
+├── docs/
+│   ├── README.html
+│   └── README.txt
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_optimization.py
+│
+├── logs/
+│   └── .gitkeep
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── setup.py
